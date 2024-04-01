@@ -9,7 +9,7 @@ export default function Home() {
       <div className="w-[30px] absolute top-4 right-4">
         <ThemeSwitch />
       </div>
-      <Header />
+      {/* <Header /> */}
       <HeroSection />
       <Collections />
     </main>
