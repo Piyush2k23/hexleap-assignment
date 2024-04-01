@@ -1,4 +1,3 @@
-import Header from "./Header";
 import Player from "./Player";
 
 const HeroSection = () => {
